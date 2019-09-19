@@ -20,14 +20,9 @@
     width:25%;
     border: 1px solid #ccc;
     height: 90px;
-}
-
-.main {
-   padding-bottom: 10px;
-   padding-top: 10px; 
-   padding-left: 10px; 
-   padding-right: 10px; 
- 
+    padding-top: 10px; 
+    padding-left: 10px; 
+    padding-right: 10px;
 }
 .artistSchool {
     color: grey;
