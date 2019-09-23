@@ -5,7 +5,6 @@
     border-radius: 5px;
     padding: 20px;
     font-size: 30px;
-
 }
 #search {
     border-style: groove;
@@ -35,8 +34,9 @@ img {
     float: left;
     padding-right: 5px;
 }
-.content:hover {background-color:#f5f5f5;}
-
+.content:hover {
+	background-color:#f5f5f5;
+}
 body {
     font-family: Trebuchet MS;
 }
