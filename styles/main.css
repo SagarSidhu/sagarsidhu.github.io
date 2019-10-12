@@ -1,4 +1,4 @@
-#tableSearch {
+#mainForm {
     margin: 0 auto; 
     width:30%;
     border: 1px solid #ccc;
@@ -47,6 +47,16 @@ input {
     padding-left: 10px; 
     padding-right: 10px;
 }
+#myForm {
+    margin: 0 auto; 
+    width:25%;
+    border: 1px solid #ccc;
+    height: 90px;
+    padding-top: 10px; 
+    padding-left: 10px; 
+    padding-right: 10px;
+    display: none;
+}
 .artistSchool {
     color: grey;
     font-size: 15px;
@@ -63,4 +73,20 @@ img {
 }
 body {
     font-family: Trebuchet MS;
+}
+.deleteBtn {
+    float: right;
+    background: red;
+    border: red;
+    border-radius: 4px;
+    color: white;
+}
+#add {
+    width: 60%;
+    font-size: 11px;
+    background-color:lightgray;
+    border-radius: 4px;
+}
+#center {
+    text-align: center;
 }
